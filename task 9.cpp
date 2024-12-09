@@ -2,6 +2,8 @@
 #include <cmath>
 using namespace std;
 int main()
+
+
 // 2 TASK
 {
     int n;
